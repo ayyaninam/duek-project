@@ -1,0 +1,101 @@
+[
+    {
+        "type": "premium_intel",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    },
+    {
+        "type": "premium_intel",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    },
+    {
+        "type": "premium_amd",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    },
+    {
+        "type": "premium_amd",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    },
+    {
+        "type": "regular",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    },
+    {
+        "type": "regular",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    },
+    {
+        "type": "regular",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    },
+    {
+        "type": "regular",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    },
+    {
+        "type": "regular",
+        "disk_type": "SSD",
+        "monthly_price": 6,
+        "hourly_price": 0.0009,
+        "cpu_quantity": 1,
+        "cpu_gb": 1,
+        "ssd_storage": 25,
+        "transfer_rate": 1,
+        "transfer_rate_in": "TB"
+    }
+]
